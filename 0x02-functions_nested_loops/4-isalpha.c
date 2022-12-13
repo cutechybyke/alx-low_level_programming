@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isalpha - checks for alphabets
+ * _isalpha - checks for alphabets
  * @c: character to be checked
  *
  * Return: 1 if char is aletter or lowwer, 0 when othrwise
