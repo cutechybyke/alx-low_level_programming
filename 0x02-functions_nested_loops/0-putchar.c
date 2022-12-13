@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <media.h>
+#include <main.h>
 
 /**
  * main -  prints putchar
