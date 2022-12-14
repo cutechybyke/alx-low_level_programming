@@ -21,8 +21,8 @@ int main(void)
 		if (count == 50)
 			printf("\n");
 		else
-			printf(",");
-			printf(" ");
+			printf(',');
+			printf(' ');
 	}
 
 	return (0);
