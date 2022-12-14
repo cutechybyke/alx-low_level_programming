@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints first 50
- *
- * Return: Always 0
+ * main - prints first 50 fibonacci numbers
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -13,17 +12,16 @@ int main(void)
 	for (count = 0; count < 50; count++)
 	{
 		sum = fib1 + fib2;
-		printf("%lu", sum);
+		printf("%u", sum);
 
 		fib1 = fib2;
 		fib2 = sum;
 
-		if (count == 50)
+		if (count == 49)
 			printf("\n");
 		else
-			printf(',');
-			printf(' ');
-
+			printf(",");
+			printf(" ");
 	}
 
 	return (0);
