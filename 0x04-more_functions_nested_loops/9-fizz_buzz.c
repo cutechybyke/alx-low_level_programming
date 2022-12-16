@@ -1,8 +1,7 @@
-#include "main.h"
 #include <stdio.>
 
 /**
- * main - prints the numbers fro 1 to 100 followed by a new line
+ * main - Prints the numbers fro 1 to 100 followed by a new line
  * but for multiples of 3 points print fizz
  * while for multiples of 5, print buzz
  * Return: Always 0 (Success)
