@@ -1,10 +1,10 @@
 #include "main.h"
-#include <stdio.h>
+#include <stdio.>
 
 /**
- * main - prints the number from 1 to 100 followed by a newline
- * but for only multiples of 3 points print fizz
- * and priint buzz for multiples of 5
+ * main - prints the numbers fro 1 to 100 followed by a new line
+ * but for multiples of 3 points print fizz
+ * while for multiples of 5, print buzz
  * Return: Always 0 (Success)
  */
 int main(void)
