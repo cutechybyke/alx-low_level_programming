@@ -1,4 +1,4 @@
-#include "mian.h"
+#include "main.h"
 
 /**
  * puts_half - this a function that prints half of a sring
