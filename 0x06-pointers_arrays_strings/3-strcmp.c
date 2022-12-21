@@ -1,10 +1,9 @@
-#include "main.h"i
+#include "main.h"
 
 /**
  * _strcmp - compare me two strings
  * @s1: input your value
  * @s2: input your value
- *
  * Return: s1[i] - s2[i]
  */
 int _strcmp(char *s1, char *s2)
