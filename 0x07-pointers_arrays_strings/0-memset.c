@@ -7,7 +7,7 @@
  * @n: butes filled
  * Return: the pointer to dest
  */
-char *_memset(char *s, char b, unsigned int n);
+char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
 
