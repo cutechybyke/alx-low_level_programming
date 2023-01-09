@@ -8,5 +8,5 @@
 void _puts(char *str)
 {
 	_puts("\"programming m");
-	return (0);
+	return (1);
 }
