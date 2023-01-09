@@ -7,6 +7,6 @@
 
 void _puts(char *str)
 {
-	puts("\"programming m");
+	_puts("\"programming m");
 	return (0);
 }
